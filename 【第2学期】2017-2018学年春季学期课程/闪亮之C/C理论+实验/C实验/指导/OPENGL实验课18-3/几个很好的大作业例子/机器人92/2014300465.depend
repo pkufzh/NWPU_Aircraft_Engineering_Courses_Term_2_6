@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1450406771 source:d:\2016给力c实验\第2个大作业\opengl实验课end\例子\机器人94\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1450406771 source:e:\2016给力c实验\第2个大作业\opengl实验课end\几个很好的大作业例子\机器人94\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1450406710 source:d:\opengl实验课18-3\几个很好的大作业例子\机器人92\main.cpp
+	"stdio.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+

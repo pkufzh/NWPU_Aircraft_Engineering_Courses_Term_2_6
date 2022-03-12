@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1528795275 source:c:\users\think\desktop\第二个大作业ie 01011704_2017300281_冯铮浩\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+
+1528795275 source:c:\users\think\desktop\2017-2018春季学期考试安排表（冯铮浩）\c理论+实验\c实验\2018.6.12_第二个大作业opengl_by冯铮浩 陈晴\第二个大作业ie 01011704_2017300281_冯铮浩\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+

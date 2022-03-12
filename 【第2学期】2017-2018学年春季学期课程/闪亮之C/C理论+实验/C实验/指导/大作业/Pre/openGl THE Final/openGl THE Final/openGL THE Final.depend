@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1483091334 source:d:\c programs\opengl the final\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"stdio.h"
+
+1483109173 source:c:\users\think\desktop\opengl the final\opengl the final\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"stdio.h"
+	<windows.h>
+
+1528094101 source:c:\users\think\desktop\2017-2018春季学期考试安排表（冯铮浩）\c理论+实验\大作业\pre\opengl the final\opengl the final\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+
+1528094101 source:c:\users\think\desktop\2017-2018春季学期考试安排表（冯铮浩）\c理论+实验\c实验\指导\大作业\pre\opengl the final\opengl the final\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+

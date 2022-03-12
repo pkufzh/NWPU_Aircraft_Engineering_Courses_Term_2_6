@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1497574406 source:d:\我的文档\桌面\新建文件夹\大作业2提交\2016300541大作业2\main.cpp
+	<gl/glut.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1497093288 d:\我的文档\桌面\glut\include\gl\glut.h
+	<windows.h>
+	<wchar.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1497576466 source:c:\users\asus\desktop\大作业2提交\2016300541大作业2\main.cpp
+	<gl/glut.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1514104020 source:c:\users\think\desktop\2017-2018春季学期考试安排表（冯铮浩）\c理论+实验\第一个大作业ie 02041702_2017300623_任智\第一个大作业ie 02041702_2017300623_任智\main.cpp
+	<gl/glut.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1514104020 source:c:\users\administrator\desktop\学在工大\学习资料\闪亮之c\c理论+实验\c实验\指导\大作业范例_任智\第一个大作业ie 02041702_2017300623_任智\第一个大作业ie 02041702_2017300623_任智\main.cpp
+	<gl/glut.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+

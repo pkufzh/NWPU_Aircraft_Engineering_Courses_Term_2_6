@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1528095901 source:c:\users\think\desktop\行星组曲\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+
+1528641408 source:c:\users\think\desktop\2017-2018春季学期考试安排表（冯铮浩）\c理论+实验\行星组曲\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+
+1528686626 source:c:\users\think\desktop\opengl大作业2018.6.11\第二个大作业_行星组曲\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1528795275 source:c:\users\think\desktop\第二个大作业ie 01011704_2017300281_冯铮浩\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+

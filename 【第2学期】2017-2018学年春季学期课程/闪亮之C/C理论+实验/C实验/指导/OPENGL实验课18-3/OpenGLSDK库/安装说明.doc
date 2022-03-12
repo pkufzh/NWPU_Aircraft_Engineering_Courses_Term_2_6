@@ -1,0 +1,6 @@
+1.将h头文件拷贝到codeblock安装目录的\mingw\include\GL中；
+2.lib文件拷贝到：codeblock安装目录的\mingw\lib中
+3.dll动态链接库文件拷贝到c:\windows\system32中；
+    或者：c:\windows\syswow64中
+    或者：\mingw\bin中
+

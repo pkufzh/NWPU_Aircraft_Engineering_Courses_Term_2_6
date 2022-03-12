@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1432608070 source:d:\opengl实验课end\茶壶1\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1433168492 source:d:\2015实验课c9月\opengl实验课end\茶壶1\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
